@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1780753534 source:c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\amin.cpp
+	<iostream>
+	"Admin.h"
+
+1780753516 c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\admin.h
+
+1780754948 source:c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\car.cpp
+	"Car.h"
+
+1780754928 c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\car.h
+	"Vehicle.h"
+
+1780754898 c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\vehicle.h
+	<iostream>
+	<string>
+
+1780754976 source:c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\driver.cpp
+	"Driver.h"
+
+1780754962 c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\driver.h
+	<iostream>
+	<string>
+
+1780754728 source:c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\fuelrecord.cpp
+	<iostream>
+	"FuelRecord.h"
+
+1780754716 c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\fuelrecord.h
+
+1780754784 source:c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\main.cpp
+	<iostream>
+	"Car.h"
+	"Driver.h"
+	"FuelRecord.h"
+	"Report.h"
+
+1780751862 c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\report.h
+
+1780754764 source:c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\report.cpp
+	<iostream>
+	"Report.h"
+
+1780754914 source:c:\users\s bah\desktop\s bah\vehiclefueltracker\vehiclefueltracker\vehicle.cpp
+	"Vehicle.h"
+
